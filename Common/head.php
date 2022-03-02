@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <?php 
-$baseurl =  'https://saw21.dibris.unige.it/~S4811831/Siti';
+$baseurl =  'https://github.com/AliH2000/SerieATopGoal/blob/main';
 session_start();
 ?>
 <!-- Required meta tags -->
